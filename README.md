@@ -66,7 +66,7 @@ Example:
 Note: There is a sample data that I created for testing purpose with file name: sampleData.csv in the folder project Employee Management System.
 
 ## Contact
-For any questions or issues, please contact the project maintainer at 
+For any questions or issues, please contact the project maintainer at https://github.com/thanhcuong278/Employee_Management.git
 
 
 
