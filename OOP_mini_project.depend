@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1715778563 source:/home/cuong/Desktop/OOP_mini_project/EmployeeMenu.cpp
+	"EmployeeMenu.h"
+	<iostream>
+	<limits>
+
+1715778439 /home/cuong/Desktop/OOP_mini_project/EmployeeMenu.h
+	"EmployeeManager.h"
+
+1715778297 /home/cuong/Desktop/OOP_mini_project/EmployeeManager.h
+	"Employee.h"
+	<vector>
+
+1715777902 /home/cuong/Desktop/OOP_mini_project/Employee.h
+	<string>
+
+1715779017 source:/home/cuong/Desktop/OOP_mini_project/main.cpp
+	"EmployeeManager.h"
+	"ManagerMenu.h"
+	"EmployeeMenu.h"
+	<iostream>
+	<limits>
+
+1715778366 /home/cuong/Desktop/OOP_mini_project/ManagerMenu.h
+	"EmployeeManager.h"
+
+1715778602 source:/home/cuong/Desktop/OOP_mini_project/ManagerMenu.cpp
+	"ManagerMenu.h"
+	<iostream>
+	<limits>
+
+1715779106 source:/home/cuong/Desktop/OOP_mini_project/EmployeeManager.cpp
+	"EmployeeManager.h"
+	<algorithm>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1715779288 source:/home/cuong/Desktop/OOP_mini_project/Employee.cpp
+	"Employee.h"
+	<iostream>
+	<limits>
+	<regex>
+	<iomanip>
+	<string>
+
+1716469711 source:/home/cuong/Desktop/Employee_Management/EmployeeMenu.cpp
+	"EmployeeMenu.h"
+	<iostream>
+	<limits>
+
+1716466606 /home/cuong/Desktop/Employee_Management/EmployeeMenu.h
+	"EmployeeManager.h"
+
+1716466555 /home/cuong/Desktop/Employee_Management/EmployeeManager.h
+	"Employee.h"
+	<vector>
+
+1716466337 /home/cuong/Desktop/Employee_Management/Employee.h
+	<string>
+
+1716469850 source:/home/cuong/Desktop/Employee_Management/ManagerMenu.cpp
+	"ManagerMenu.h"
+	<iostream>
+	<limits>
+
+1716467925 /home/cuong/Desktop/Employee_Management/ManagerMenu.h
+	"EmployeeManager.h"
+
+1716469243 source:/home/cuong/Desktop/Employee_Management/Employee.cpp
+	"Employee.h"
+	<iostream>
+	<limits>
+	<regex>
+	<iomanip>
+	<string>
+
+1716469557 source:/home/cuong/Desktop/Employee_Management/EmployeeManager.cpp
+	"EmployeeManager.h"
+	<algorithm>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1716469975 source:/home/cuong/Desktop/Employee_Management/main.cpp
+	"EmployeeManager.h"
+	"ManagerMenu.h"
+	"EmployeeMenu.h"
+	<iostream>
+	<limits>
+
+1716469558 source:c:\dowload_code\employee_management\employeemanager.cpp
+	"EmployeeManager.h"
+	<algorithm>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1716518092 c:\dowload_code\employee_management\employeemanager.h
+	"Employee.h"
+	<vector>
+
+1716518088 c:\dowload_code\employee_management\employee.h
+	<string>
+
+1716469712 source:c:\dowload_code\employee_management\employeemenu.cpp
+	"EmployeeMenu.h"
+	<iostream>
+	<limits>
+
+1716466606 c:\dowload_code\employee_management\employeemenu.h
+	"EmployeeManager.h"
+
