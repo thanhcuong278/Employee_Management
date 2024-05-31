@@ -73,9 +73,13 @@ After successful login, employees can view and update their personal information
 
 ### CSV File Format
 When saving to or loading from a CSV file, the following format is used:
+
 ID,Name,Type,Salary,Tax,Phone Number,Address,Date of Birth,Department Name,Notification
+
 Example:
+
 1,Cuong,Full-Time,50000,5000,1234567890,HCM city,01/01/1998,Engineering,Welcome new member
+
 Note: There is a sample data that I created for testing purpose with file name: sampleData.csv in the folder project Employee Management System.
 
 ## Contact
