@@ -50,12 +50,14 @@ Upon running the program, you will be presented with the main menu:
 1. Login as Manager
 2. Login as Employee
 3. Exit
+
 Enter your role:
 
 Choose the appropriate role and follow the prompts for login and subsequent actions.
 >for testing purpose password for Manager are set to "123".
 ### Manager Login
 Username: admin
+
 Password: 123
 
 >for testing purpose passwords for Employee are set to "1".
