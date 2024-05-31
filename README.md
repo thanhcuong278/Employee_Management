@@ -10,19 +10,30 @@ The Employee Management System is a C++ application designed to manage employee 
 ## Features:
 ### Manager Functions
 Login: Secure login for managers.
+
 Add Employee: Add a new employee to the system.
+
 Edit Employee: Update employee details.
+
 Remove Employee: Delete an employee from the system.
+
 Print Employees: Display all employees.
+
 Search Employee by ID: Find an employee using their ID.
+
 Sort Employees by Department: Organize employees by their department.
+
 Create Notification for Employee: Send notifications to employees.
+
 Save Data to CSV: Export employee data to a CSV file.
+
 Load Data from CSV: Import employee data from a CSV file.
 
 ### Employee Functions
 Login: Secure login for employees.
+
 View Personal Information: View individual employee details.
+
 Update Personal Information: Update their own details.
 
 ## Usage
