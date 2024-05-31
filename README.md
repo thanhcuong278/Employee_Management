@@ -81,7 +81,7 @@ Example:
 
 1,Cuong,Full-Time,50000,5000,1234567890,HCM city,01/01/1998,Engineering,Welcome new member
 
-Note: There is a sample data that I created for testing purpose with file name: sampleData.csv in the folder project Employee Management System.
+Note: There is a sample data that I created for testing purpose with file name: sampleData.csv in the folder project Employee Management.
 
 ## Contact
 For any questions or issues, please contact the project maintainer at https://github.com/thanhcuong278/Employee_Management.git
