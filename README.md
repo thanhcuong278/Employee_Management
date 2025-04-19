@@ -1,7 +1,7 @@
-# Employee Management System
+# Employee Management 
 
 ## Overview:
-The Employee Management System is a C++ application designed to manage employee data within a company. It allows managers to add, edit, remove, search, and print employee information. Employees can also view and update their personal information.
+The Employee Management is a C++ application designed to manage employee data within a company. It allows managers to add, edit, remove, search, and print employee information. Employees can also view and update their personal information.
 
 >launch the file.exe directly to use the App.
 >Manager have full access to manipulate the data.
